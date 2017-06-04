@@ -1,0 +1,11 @@
+-- things to do
+draw gun
+add gun
+move gun
+shoot bullets
+make bullet
+move bullet
+add drop objects
+collide with bullet and drop object
+
+
